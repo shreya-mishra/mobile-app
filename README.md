@@ -20,7 +20,7 @@ This Project serves the RealdevSquad cross-platform-app. This project is built i
 - Profile Screen in which we can change our profile through our phone’s gallery ✅
 - API integration in Profile Screen
 
-Feel free to download our RDS app by clicking on ➡️ [RDS App](https://drive.google.com/file/d/1xWEl6qXmDFY7MhogKbW-UKNrMZVhELLo/view?usp=sharing)
+Feel free to download our RDS app by clicking on ➡️ [RDS App](https://drive.google.com/file/d/1hnmrMcsZbWzZSewTmpuF2i6DWw7blDpz/view?pli=1)
 
 Note : Please delete the previous RDS app build if you have.
 
